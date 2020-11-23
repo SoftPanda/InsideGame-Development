@@ -1,3 +1,4 @@
+@@ -0,0 +1,74 @@
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -46,13 +47,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
- Binaries/
- Intermediate/
- Saved/
- ProjectName.opensdf
- ProjectName.sdf
- ProjectName.sln
- ProjectName.v12.suo
+Binaries/*
+Plugins/*/Binaries/*
 
 # Builds
 Build/*
