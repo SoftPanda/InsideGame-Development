@@ -46,8 +46,13 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+ Binaries/
+ Intermediate/
+ Saved/
+ ProjectName.opensdf
+ ProjectName.sdf
+ ProjectName.sln
+ ProjectName.v12.suo
 
 # Builds
 Build/*
